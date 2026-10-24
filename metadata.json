@@ -1,0 +1,6 @@
+{
+  "name": "KOROYA - Talent Meets Opportunity",
+  "description": "Institutional West African platform for verified opportunities, academic reference checks, and skills matching for Côte d'Ivoire and the ECOWAS region.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
